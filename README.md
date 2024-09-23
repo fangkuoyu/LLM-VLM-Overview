@@ -3,4 +3,3 @@ This repository maintains materials for introduction and references related to L
 - Reinforcement Learning and Large Language Models
 - Reinforcement Learning and Vision Language Models
 - TRL for LLaVA README
-- LLM/VLM Evaluation
