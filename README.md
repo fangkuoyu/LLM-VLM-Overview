@@ -1,4 +1,5 @@
-# LLM-VLM-Utility
-This repository stores some utilities for LLM (Large Language Model) and VLM (Vision Language Model). For example:
-- How to perform question answering and image questioning to OpenAI GPT-4o?
-- How to evaluate LLM or VLM? e.g., BERTScore, G-Eval, RAGAS correctness/similarity, etc.
+# LLM/VLM Overview
+This repository maintains references related to Large Language Model (LLM) and Vision Language Model (VLM).
+- Introduction to Reinforcement Learning and Alignment in Language Models
+- Reinforcement Learning for Vision Language Model
+- LLM/VLM Evaluation
