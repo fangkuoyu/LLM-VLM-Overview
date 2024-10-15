@@ -4,3 +4,4 @@ This repository maintains materials for introduction and references related to L
 - Introduction to Vision Language Model
 - Reinforcement Learning and Vision Language Models
 - TRL for LLaVA README
+- TinyLLaMA and TinyLLaVA
